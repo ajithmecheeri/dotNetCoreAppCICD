@@ -1,0 +1,10 @@
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.deps.json
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.json
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.runtimeconfig.dev.json
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.dll
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\bin\Debug\netcoreapp2.0\CoreApp.Web.pdb
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.csproj.CoreCompileInputs.cache
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfoInputs.cache
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.AssemblyInfo.cs
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.dll
+D:\Ajith\Lab\Final\dotNetCore\CICD_Test\CoreApp\CoreApp.Web\obj\Debug\netcoreapp2.0\CoreApp.Web.pdb
