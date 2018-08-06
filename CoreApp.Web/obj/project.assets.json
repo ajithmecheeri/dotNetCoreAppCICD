@@ -12535,28 +12535,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ameche\\.nuget\\packages\\": {},
+    "C:\\Users\\Ajith\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ajith\\Lab\\Final\\dotNetCore\\CICD_Test\\CoreApp\\CoreApp.Web\\CoreApp.Web.csproj",
+      "projectUniqueName": "E:\\Ajith\\Lab\\Final\\AWS_Jenkin\\Code\\dotNetCoreAppCICD\\CoreApp.Web\\CoreApp.Web.csproj",
       "projectName": "CoreApp.Web",
-      "projectPath": "D:\\Ajith\\Lab\\Final\\dotNetCore\\CICD_Test\\CoreApp\\CoreApp.Web\\CoreApp.Web.csproj",
-      "packagesPath": "C:\\Users\\ameche\\.nuget\\packages\\",
-      "outputPath": "D:\\Ajith\\Lab\\Final\\dotNetCore\\CICD_Test\\CoreApp\\CoreApp.Web\\obj\\",
+      "projectPath": "E:\\Ajith\\Lab\\Final\\AWS_Jenkin\\Code\\dotNetCoreAppCICD\\CoreApp.Web\\CoreApp.Web.csproj",
+      "packagesPath": "C:\\Users\\Ajith\\.nuget\\packages\\",
+      "outputPath": "E:\\Ajith\\Lab\\Final\\AWS_Jenkin\\Code\\dotNetCoreAppCICD\\CoreApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ameche\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ajith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
